@@ -1,5 +1,5 @@
 ### Hi there 👋
-### I’m currently learning Pyton OOP. There are 2 weeks left untill the end of course.
+### ✨ I’m currently learning Pyton OOP. There are 2 weeks left untill the end of course.
 <!--
 **Kuzzy89/Kuzzy89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
