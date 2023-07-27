@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there and welcome👋
 ### ✨ I’m currently learning Pyton OOP. There are one week left untill the end of course.
 🌱 My goal is to create an app in one year ✨:)
 <!--
