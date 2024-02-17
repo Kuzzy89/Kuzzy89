@@ -1,5 +1,5 @@
 ### Hi there and welcome👋
-### ✨ I have just finished the Pyton OOP course.
+### ✨ I have just finished the Python OOP course.
 🌱 My goal for this year is to finish the Python course in SoftUni with an "A" ✨:)
 <!--
 **Kuzzy89/Kuzzy89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
