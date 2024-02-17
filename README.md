@@ -1,11 +1,11 @@
 ### Hi there and welcome👋
-### ✨ I have just finished the Python OOP course.
-🌱 My goal for this year is to finish the Python course in SoftUni with an "A" ✨:)
+### ✨ I am attending Django Basics now!
+
 <!--
 **Kuzzy89/Kuzzy89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+-🌱 My goal for this year is to finish the Python course in SoftUni with an "A" ✨:)
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
