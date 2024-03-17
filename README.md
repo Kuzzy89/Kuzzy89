@@ -1,4 +1,4 @@
-### Hi there and welcome👋
+### Hi there👋
 ### ✨ I am attending Django Basics now and I have to do my first sigle project
 
 <!--
