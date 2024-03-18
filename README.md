@@ -1,6 +1,6 @@
 ### Hi there👋
 ### ✨ I am attending Django Basics now and I have to do my first sigle project
-###🌱 My goal for this year is to a dicent project ✨:)
+###🌱 My goal for this year is to do a dicent project ✨
 
 <!--
 **Kuzzy89/Kuzzy89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
